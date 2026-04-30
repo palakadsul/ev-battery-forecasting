@@ -1,4 +1,3 @@
-# ev-battery-forecasting
 # EV Battery Capacity Forecasting
 
 A machine learning system to forecast EV battery capacity degradation
